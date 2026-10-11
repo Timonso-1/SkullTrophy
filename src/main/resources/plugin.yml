@@ -1,5 +1,9 @@
 name: SkullTrophy
 version: '${version}'
+commands:
+  skulltrophy:
+    description: SkullTrophy admin command
+    permission: skulltrophy.admin
 
 main: de.timonso.skullTrophy.SkullTrophy
 api-version: '26.3'

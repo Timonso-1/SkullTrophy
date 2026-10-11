@@ -1,0 +1,7 @@
+prefix: "<dark_gray>[<red>SkullTrophy<dark_gray>] <gray>"
+drop-chance: 0.25
+item-name: "<red>Kopf von <white><victim>"
+date-format: "HH:mm:ss 'Uhr am' dd.MM.yyyy"
+item-lore:
+  - "<gold>» <aqua>Getötet von <white><killer>"
+  - "<gold>» <aqua>Um <white><date>"
