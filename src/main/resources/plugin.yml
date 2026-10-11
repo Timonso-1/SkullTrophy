@@ -1,0 +1,9 @@
+name: SkullTrophy
+version: '${version}'
+
+main: de.timonso.skullTrophy.SkullTrophy
+api-version: '26.3'
+load: POSTWORLD
+
+authors: [ Timonso ]
+description: Players drop their head as a trophy when killed by another player. Configurable chance, name and lore.
