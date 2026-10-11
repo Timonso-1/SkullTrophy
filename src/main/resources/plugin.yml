@@ -1,5 +1,12 @@
 name: SkullTrophy
 version: '${version}'
+permissions:
+  skulltrophy.admin:
+    description: Allows use of /skulltrophy
+    default: op
+  skulltrophy.bypass:
+    description: Players with this permission do not drop their head
+    default: false
 commands:
   skulltrophy:
     description: SkullTrophy admin command
